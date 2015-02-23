@@ -16,7 +16,7 @@
   "main": [
     "styles/skeuocard.reset.css",
     "styles/skeuocard.css",
-    "javascripts/skeuocard.js",
+    "javascripts/skeuocard.js"
   ],
   "ignore": [
     "Gruntfile.coffee",
