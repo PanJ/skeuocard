@@ -16,11 +16,7 @@
   "main": [
     "styles/skeuocard.reset.css",
     "styles/skeuocard.css",
-    "javascripts/vendor/cssua.min.js",
-    "javascripts/vendor/demo.fix.js",
-    "javascripts/vendor/jquery-2.0.3.min.js",
     "javascripts/skeuocard.js",
-    "javascripts/skeuocard.min.js"
   ],
   "ignore": [
     "Gruntfile.coffee",
